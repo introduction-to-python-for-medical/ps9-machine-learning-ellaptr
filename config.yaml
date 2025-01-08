@@ -1,2 +1,2 @@
-path: "ella_model.joblib
-features: ['PPE', 'DFA']
+features: ['PPE', 'DFA']  
+path: "ella_model.joblib" 
