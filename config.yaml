@@ -1,6 +1,2 @@
-import joblib
-
-joblib.dump(model, 'ella_model.joblib')
-
 path: "ella_model.joblib"
 features: ['PPE', 'DFA']
